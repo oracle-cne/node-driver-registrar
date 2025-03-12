@@ -7,4 +7,4 @@ RUN microdnf update && \
     rpm -i /tmp/*.rpm && \
     rm /tmp/*.rpm
 
-ENTRYPOINT ["/csi-provisioner"]
+ENTRYPOINT ["/csi-node-driver-registrar"]
