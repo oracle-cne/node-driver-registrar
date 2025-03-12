@@ -21,6 +21,7 @@ Source:         %{name}-%{version}.tar.bz2
 BuildRequires:  golang
 BuildRequires:	make
 Patch0:         go.mod.patch
+Patch1:         go.mod.sum
 
 %description
 Sidecar container that registers the CSI driver with Kubelet using the kubelet plugin registration mechanism.
@@ -28,6 +29,7 @@ Sidecar container that registers the CSI driver with Kubelet using the kubelet p
 %prep
 %setup -q
 %patch0
+%patch1
 
 %build
 make build
