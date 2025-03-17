@@ -7,7 +7,7 @@
 %global app_name                node-driver-registrar
 %global app_name_release        csi-node-driver-registrar
 %global app_version             2.13.0
-%global oracle_release_version  1
+%global oracle_release_version  2
 %global _buildhost              build-ol%{?oraclelinux}-%{?_arch}.oracle.com
 
 Name:           %{app_name}
@@ -42,6 +42,9 @@ install -m 755 bin/%{app_name_release} %{buildroot}/%{app_name_release}
 /%{app_name_release}
 
 %changelog
+* Mon Mar 17 2025 Michael Gianatassio <michael.gianatassio@oracle.com> - 2.13.0-2
+- Rename the container image to be csi-node-driver-registrar.
+
 * Wed Mar 12 2025 Michael Gianatassio <michael.gianatassio@oracle.com> - 2.13.0-1
 - Added Oracle specific build files for CSI node-driver-registrar.
 
