@@ -6,7 +6,7 @@ String imgTag  = "v" + version
 
 olcnePipeline(
         branchPattern: new BranchPattern(master: 'oracle/release/.*', feature: '(?!^release/.*$)(^.*$)'),
-        containers: [('container-registry.oracle.com/olcne/node-driver-registrar:' + imgTag): 'olcne/node-driver-registrar:' + imgTag],
+        containers: [('container-registry.oracle.com/olcne/csi-node-driver-registrar:' + imgTag): 'olcne/csi-node-driver-registrar:' + imgTag],
         golang: '1.23.7',
         architectures: ['x86_64', 'aarch64'],
         platforms: ['ol8'],
