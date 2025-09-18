@@ -1,3 +1,4 @@
+=== Public License Template ===
 
 ------------------------------ Top-Level License -------------------------------
 SPDX:Apache-2.0
@@ -58,7 +59,76 @@ github.com/container-storage-interface/spec
 SPDX:Apache-2.0
 
 == Copyright
-Copyright Jie Yu <jie@mesosphere.io>,Saad Ali <saadali@google.com>,James DeFelice <james@mesosphere.io>
+Copyright 2017 GitHub noreply@github.com
+Copyright 2017 James DeFelice james.defelice@gmail.com
+Copyright 2017 James DeFelice james@mesosphere.io
+Copyright 2017 Jie Yu yujie.jay@gmail.com
+Copyright 2017 Julian Hjortshoj julian.hjortshoj@emc.com
+Copyright 2017 Saad Ali saadali@google.com
+Copyright 2017 akutz sakutz@gmail.com
+Copyright 2017 edisonxiang xiang.edison@gmail.com
+Copyright 2017 saadali saadali@google.com
+Copyright 2018 Ben Swartzlander ben@swartzlander.org
+Copyright 2018 Brian Goff cpuguy83@gmail.com
+Copyright 2018 Cheng Xing cxing@google.com
+Copyright 2018 David Zhu dyzz@google.com
+Copyright 2018 Deep Debroy ddebroy@docker.com
+Copyright 2018 GitHub noreply@github.com
+Copyright 2018 Gorka Eguileor geguileo@redhat.com
+Copyright 2018 Hemant Kumar hekumar@redhat.com
+Copyright 2018 James DeFelice james.defelice@gmail.com
+Copyright 2018 James DeFelice james@mesosphere.io
+Copyright 2018 Jie Yu yujie.jay@gmail.com
+Copyright 2018 Lucas Serven lserven@gmail.com
+Copyright 2018 Serguei Bezverkhi sbezverk@cisco.com
+Copyright 2018 Xing Yang xingyang105@gmail.com
+Copyright 2018 akutz sakutz@gmail.com
+Copyright 2018 saad-ali saadali@google.com
+Copyright 2018 xing-yang xingyang105@gmail.com
+Copyright 2019 Ben Swartzlander ben@swartzlander.org
+Copyright 2019 David Zhu dyzz@google.com
+Copyright 2019 Gilbert Song songzihao1990@gmail.com
+Copyright 2019 GitHub noreply@github.com
+Copyright 2019 Gorka Eguileor geguileo@redhat.com
+Copyright 2019 Hemant Kumar hekumar@redhat.com
+Copyright 2019 James DeFelice james.defelice@gmail.com
+Copyright 2019 Jie Yu yujie.jay@gmail.com
+Copyright 2019 Jose A. Rivera jarrpa@redhat.com
+Copyright 2019 Marc Solé msolefonte@gmail.com
+Copyright 2019 Tom Manville tom@kasten.io
+Copyright 2019 saad-ali saadali@google.com
+Copyright 2020 GitHub noreply@github.com
+Copyright 2020 Hemant Kumar hekumar@redhat.com
+Copyright 2020 James DeFelice james.defelice@gmail.com
+Copyright 2020 Jan Safranek jsafrane@redhat.com
+Copyright 2020 Jie Yu yujie.jay@gmail.com
+Copyright 2020 xing-yang xingyang105@gmail.com
+Copyright 2021 Ben Swartzlander ben@swartzlander.org
+Copyright 2021 Chris Henzie chrishenzie@google.com
+Copyright 2021 GitHub noreply@github.com
+Copyright 2021 Hemant Kumar hekumar@redhat.com
+Copyright 2021 Jan Safranek jsafrane@redhat.com
+Copyright 2021 Jiawei Wang jiaweiwang@google.com
+Copyright 2021 Patrick Ohly patrick.ohly@intel.com
+Copyright 2021 jdef 2348332+jdef@users.noreply.github.com
+Copyright 2021 saad-ali saadali@google.com
+Copyright 2022 GitHub noreply@github.com
+Copyright 2022 Hemant Kumar hekumar@redhat.com
+Copyright 2022 Humble Chirammal hchiramm@redhat.com
+Copyright 2022 Patrick Ohly patrick.ohly@intel.com
+Copyright 2022 andyzhangx xiazhang@microsoft.com
+Copyright 2022 jdef 2348332+jdef@users.noreply.github.com
+Copyright 2022 saad-ali saadali@google.com
+Copyright 2022 xing-yang xingyang105@gmail.com
+Copyright 2023 Ben Swartzlander ben@swartzlander.org
+Copyright 2023 GitHub noreply@github.com
+Copyright 2023 Jordan Liggitt liggitt@google.com
+Copyright 2023 Sunny Song songsunny@google.com
+Copyright 2023 jdef 2348332+jdef@users.noreply.github.com
+Copyright 2023 saad-ali saadali@google.com
+Copyright 2023 xing-yang xingyang105@gmail.com
+Copyright 2024 GitHub noreply@github.com
+Copyright 2024 saad-ali saadali@google.com
 
 --------------------------------- (separator) ----------------------------------
 
@@ -71,7 +141,7 @@ SPDX:MIT
 == Copyright
 Copyright (c) 2019-present Faye Amacker
 Copyright (c) Faye Amacker. All rights reserved.
-Copyright Â© 2019-2024 [Faye Amacker](https://github.com/fxamacker).
+Copyright © 2019-2024 [Faye Amacker](https://github.com/fxamacker).
 
 --------------------------------- (separator) ----------------------------------
 
@@ -185,6 +255,11 @@ Copyright (c) 2016 json-iterator
 github.com/klauspost/compress
 
 == License Type
+=== BSD-3-Clause--modified-by-Google-d0fd9ebd
+=== Apache-2.0
+=== MIT
+=== BSD-3-Clause--modified-by-Google
+=== MIT
 Copyright (c) 2012 The Go Authors. All rights reserved.
 Copyright (c) 2019 Klaus Post. All rights reserved.
 
@@ -588,6 +663,7 @@ Copyright 2021 Tao Wen taowen@chengfayun.com
 github.com/munnerz/goautoneg
 
 == License Type
+=== BSD-3-Clause-0c241922
 Copyright (c) 2011, Open Knowledge Foundation Ltd.
 All rights reserved.
 
@@ -636,11 +712,11 @@ SPDX:Apache-2.0
 == Copyright
 Copyright (c) 2013 The Go Authors. All rights reserved.
 Copyright (c) 2013, The Prometheus Authors
-Copyright (c) 2015 BjÃ¶rn Rabenstein
+Copyright (c) 2015 Björn Rabenstein
 Copyright 2010 The Go Authors
 Copyright 2012-2015 The Prometheus Authors
 Copyright 2013 The Go Authors. All rights reserved.
-Copyright 2013-2015 Blake Mizerany, BjÃ¶rn Rabenstein
+Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
 Copyright 2014 The Prometheus Authors
 Copyright 2015 The Prometheus Authors
 Copyright 2016 The Prometheus Authors
@@ -665,7 +741,7 @@ The following components are included in this product:
 
 perks - a fork of https://github.com/bmizerany/perks
 https://github.com/beorn7/perks
-Copyright 2013-2015 Blake Mizerany, BjÃ¶rn Rabenstein
+Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
 See https://github.com/beorn7/perks/blob/master/README.md for license details.
 
 Go support for Protocol Buffers - Google's data interchange format
@@ -791,8 +867,8 @@ github.com/x448/float16
 SPDX:MIT
 
 == Copyright
-Copyright (c) 2019 Montgomery Edwardsâ´â´â¸ and Faye Amacker
-Copyright 2019 Montgomery Edwardsâ´â´â¸ and Faye Amacker
+Copyright (c) 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
+Copyright 2019 Montgomery Edwards⁴⁴⁸ and Faye Amacker
 
 --------------------------------- (separator) ----------------------------------
 
@@ -805,8 +881,11 @@ SPDX:Apache-2.0
 == Copyright
 Copyright (C) 1991, 1999 Free Software Foundation, Inc.
 Copyright (C) 2013 Blake Mizerany
+Copyright (C) 2013-2015 Alexei Starovoitov <ast@kernel.org>
 Copyright (C) 2014-2019, Matt Butcher and Matt Farina
-Copyright (C) year name of author
+Copyright (C) 2015 Huawei Inc.
+Copyright (C) 2015 Wang Nan <wangnan0@huawei.com>
+Copyright (C) 2021 Facebook
 Copyright (c) 2009 The Go Authors. All rights reserved.
 Copyright (c) 2009,2014 Google Inc. All rights reserved.
 Copyright (c) 2011 The Snappy-Go Authors. All rights reserved.
@@ -814,7 +893,7 @@ Copyright (c) 2011, Open Knowledge Foundation Ltd.
 Copyright (c) 2012 The Go Authors. All rights reserved.
 Copyright (c) 2013 The Go Authors. All rights reserved.
 Copyright (c) 2013, The GoGo Authors. All rights reserved.
-Copyright (c) 2014 Cenk AltÄ±
+Copyright (c) 2014 Cenk Altı
 Copyright (c) 2015 Klaus Post
 Copyright (c) 2015 The Libbpf Authors. All rights reserved.
 Copyright (c) 2015, Dave Cheney <dave@cheney.net>
@@ -823,20 +902,25 @@ Copyright (c) 2016 Caleb Spare
 Copyright (c) 2016 json-iterator
 Copyright (c) 2017 Nathan Sweet
 Copyright (c) 2017-2021 Uber Technologies, Inc.
+Copyright (c) 2018 - 2019 Intel Corporation.
 Copyright (c) 2018 The Go Authors. All rights reserved.
 Copyright (c) 2018, 2019 Cloudflare
 Copyright (c) 2019 Authors of Cilium
+Copyright (c) 2019 Facebook
 Copyright (c) 2019 Klaus Post. All rights reserved.
 Copyright 2009 The Go Authors.
 Copyright 2010 The Go Authors
 Copyright 2010 The Go Authors. All rights reserved.
 Copyright 2012-2015 The Prometheus Authors
-Copyright 2013-2015 Blake Mizerany, BjÃ¶rn Rabenstein
+Copyright 2013-2015 Blake Mizerany, Björn Rabenstein
 Copyright 2014 gRPC authors.
 Copyright 2014-2015 The Prometheus Authors
 Copyright 2015 The Go Authors.
 Copyright 2015 The Prometheus Authors
 Copyright 2016 The filepathx Authors
+Copyright 2016-2017 The New York Times Company
+Copyright 2023 The Go Authors. All rights reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -858,7 +942,9 @@ go.opentelemetry.io/otel
 SPDX:Apache-2.0
 
 == Copyright
-Copyright The OpenTelemetry Authors, @MrAlias @pellared @dashpole @XSAM @dmathieu
+Copyright 2009 The Go Authors. All rights reserved.
+Copyright 2022 The Go Authors. All rights reserved.
+Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
 
@@ -869,6 +955,8 @@ go.opentelemetry.io/otel/metric
 SPDX:Apache-2.0
 
 == Copyright
+Copyright 2009 The Go Authors. All rights reserved.
+Copyright 2022 The Go Authors. All rights reserved.
 Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
@@ -880,6 +968,8 @@ go.opentelemetry.io/otel/trace
 SPDX:Apache-2.0
 
 == Copyright
+Copyright 2009 The Go Authors. All rights reserved.
+Copyright 2022 The Go Authors. All rights reserved.
 Copyright The OpenTelemetry Authors
 
 --------------------------------- (separator) ----------------------------------
@@ -924,6 +1014,7 @@ Copyright (c) 2023 Uber Technologies, Inc.
 golang.org/x/net
 
 == License Type
+=== BSD-3-Clause--modified-by-Google-7998cb33
 Copyright 2009 The Go Authors.
 
 Redistribution and use in source and binary forms, with or without
@@ -1004,6 +1095,7 @@ shall terminate as of the date such litigation is filed.
 golang.org/x/sys
 
 == License Type
+=== BSD-3-Clause--modified-by-Google-7998cb33
 Copyright 2009 The Go Authors.
 
 Redistribution and use in source and binary forms, with or without
@@ -1086,6 +1178,7 @@ shall terminate as of the date such litigation is filed.
 golang.org/x/text
 
 == License Type
+=== BSD-3-Clause--modified-by-Google-7998cb33
 Copyright 2009 The Go Authors.
 
 Redistribution and use in source and binary forms, with or without
@@ -1265,7 +1358,7 @@ gopkg.in/inf.v0
 SPDX:BSD-3-Clause--modified-by-Google
 
 == Copyright
-Copyright (c) 2012 PÃ©ter SurÃ¡nyi. Portions Copyright (c) 2009 The Go
+Copyright (c) 2012 Péter Surányi. Portions Copyright (c) 2009 The Go
 
 --------------------------------- (separator) ----------------------------------
 
@@ -1380,6 +1473,8 @@ Copyright 2024 The Kubernetes Authors.
 sigs.k8s.io/json
 
 == License Type
+=== BSD-3-Clause--modified-by-Google-545d3f23
+=== Apache-2.0
 Files other than internal/golang/* licensed under:
 
 
@@ -1652,6 +1747,11 @@ Copyright 2023 The Kubernetes Authors.
 sigs.k8s.io/yaml
 
 == License Type
+=== MIT-b5d30dd5
+=== BSD-3-Clause--modified-by-Google
+=== MIT
+=== Apache-2.0
+=== Apache-2.0
 The MIT License (MIT)
 
 Copyright (c) 2014 Sam Ghods
@@ -2174,3 +2274,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
