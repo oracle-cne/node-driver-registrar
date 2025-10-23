@@ -22,12 +22,14 @@ Url:            https://github.com/oracle-cne/node-driver-registrar.git
 Source:         %{name}-%{version}.tar.bz2
 BuildRequires:  golang
 BuildRequires:	make
+Patch0:         buildrpm/build.make.patch
 
 %description
 Sidecar container that registers the CSI driver with Kubelet using the kubelet plugin registration mechanism.
 
 %prep
 %setup -q
+%patch0
 
 %build
 make build
